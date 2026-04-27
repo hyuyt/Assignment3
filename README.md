@@ -34,7 +34,9 @@ The following table summarizes the measured operation counts (time complexity un
 | 100        | 33,667                 | 50,167                 | 917         |
 | 1,000      | 1,481,417              | 529,750                | 750         |
 | 10,000     | 14,988,875             | 475,917                | 2,375       |
-<img width="1289" height="593" alt="Screenshot 2026-04-21 at 18 28 27" src="https://github.com/user-attachments/assets/7413cd6e-b421-45bb-a3c9-b19b42f2d256" />
+<img width="859" height="608" alt="Screenshot 2026-04-27 at 13 15 26" src="https://github.com/user-attachments/assets/b1a98b99-e5a3-4992-aeaf-3cb645b8de58" />
+
+<img width="859" height="409" alt="Screenshot 2026-04-27 at 13 15 36" src="https://github.com/user-attachments/assets/2efaddf9-70b5-49c8-b6eb-5c57256b9e90" />
 
 
 ---
